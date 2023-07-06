@@ -1,1 +1,1 @@
-# BloggerApp
+# BlogApp
